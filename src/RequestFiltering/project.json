@@ -1,15 +1,20 @@
 {
-  "version": "1.0.0-*",
+  "version": "1.0.1-*",
 
   "dependencies": {
-    "Microsoft.AspNetCore.Http.Abstractions": "1.1.0-alpha1-22132",
-    "NETStandard.Library": "1.5.0-rc2-24027",
-    "RequestFiltering.Abstractions": "1.0.0-*"
+    "Microsoft.AspNetCore.Http.Abstractions": "1.1.0",
+    "NETStandard.Library": "1.6.1",
+    "RequestFiltering.Abstractions": "1.0.1-*"
   },
 
   "frameworks": {
-    "netstandard1.5": {
+    "netstandard1.6": {
       "imports": "dnxcore50"
     }
+  },
+  "scripts": {
+    "postcompile": [
+      "dotnet pack --no-build --configuration %compile:Configuration%"
+    ]
   }
 }
