@@ -1,6 +1,3 @@
-#:C:\src\Projekt\Web\AspNetCore\RequestFiltering\src\RequestFiltering.Headers\RequestFiltering.Headers.xproj
-C:\src\Projekt\Web\AspNetCore\RequestFiltering\src\RequestFiltering.Headers\RequestFiltering.Headers.xproj|C:\src\Projekt\Web\AspNetCore\RequestFiltering\src\RequestFiltering\RequestFiltering.xproj
-C:\src\Projekt\Web\AspNetCore\RequestFiltering\src\RequestFiltering\RequestFiltering.xproj|C:\src\Projekt\Web\AspNetCore\RequestFiltering\src\RequestFiltering.Abstractions\RequestFiltering.Abstractions.xproj
 #:C:\src\Projekt\Web\AspNetCore\RequestFiltering\samples\RequestFiltering.Web\RequestFiltering.Web.xproj
 C:\src\Projekt\Web\AspNetCore\RequestFiltering\samples\RequestFiltering.Web\RequestFiltering.Web.xproj|C:\src\Projekt\Web\AspNetCore\RequestFiltering\src\RequestFiltering\RequestFiltering.xproj
 C:\src\Projekt\Web\AspNetCore\RequestFiltering\samples\RequestFiltering.Web\RequestFiltering.Web.xproj|C:\src\Projekt\Web\AspNetCore\RequestFiltering\src\RequestFiltering.FileExtensions\RequestFiltering.FileExtensions.xproj
